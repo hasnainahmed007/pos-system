@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'AbandoN';
+	src: url('./AbandoN.eot');
+	src: local('AbandoN'), url('./AbandoN.woff') format('woff'), url('./AbandoN.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_40059">Text with this font applied</p> */
+.fontsforweb_fontid_40059 {
+	font-family: 'AbandoN';
+}
+
+/* Font downloaded from FontsForWeb.com */
